@@ -1,16 +1,42 @@
-h1 {
-    color: rgb(10, 125, 121);
-}
-
-p{
-    color: rgb(174, 131, 14);
-}
-
-button {
-    color:brown;
-    background-color: rgb(99, 153, 223);
-}
-
 body {
-    background-color: #F5DEB3;
+    background-color: rgb(220, 163, 144);
+}
+
+h1 {
+    color: brown;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    text-transform: uppercase ;
+}
+
+.username {
+color: black;
+font-size: large;
+
+}
+
+.pasward {
+    color: black;
+    font-size: large;
+}
+
+
+
+#userholder {
+    background-color: rgb(166, 109, 109);
+    color: black;
+}
+
+#logo2 {
+    background-color: aqua;
+}
+
+    button {
+    color: brown;
+    background-color:gold ;
+}
+
+.login {
+    color: brown;
 }
